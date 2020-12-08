@@ -10,6 +10,5 @@
 ![?title=completed](https://progress-bar.dev/15/?title=SQL&suffix=(novice)&width=250&color=737373) 
 
 
-## Testimonials
 ----------------------------------------------
 >
