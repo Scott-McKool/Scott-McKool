@@ -7,7 +7,7 @@
 
 ![?title=completed](https://progress-bar.dev/55/?title=Java&suffix=(intermediate)&width=245&color=737373) 
 
-![?title=completed](https://progress-bar.dev/35/?title=Python&suffix=(novice)&width=240&color=737373) 
+![?title=completed](https://progress-bar.dev/35/?title=Python&suffix=(novice)&width=235&color=737373) 
 
 ![?title=completed](https://progress-bar.dev/15/?title=SQL&suffix=(beginner)&width=250&color=737373) 
 
