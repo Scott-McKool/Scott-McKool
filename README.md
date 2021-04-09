@@ -1,6 +1,6 @@
 # Jeff
 
-## My Proficiencies
+## 💻
 ----------------------------------------------
 
 ![?title=completed](https://progress-bar.dev/75/?title=Lua&suffix=(Confident)&width=251&color=737373) 
