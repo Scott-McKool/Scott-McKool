@@ -1,13 +1,6 @@
 # Test Markdown Document
 ![image](https://user-images.githubusercontent.com/44004555/114205658-8724a780-9928-11eb-8952-e5ea79dbde4e.png)
 
-## 💻
-
-![?title=completed](https://progress-bar.dev/75/?title=Lua&suffix=(Confident)&width=251&color=737373) 
-
-![?title=completed](https://progress-bar.dev/70/?title=Java&suffix=(Confident)&width=245&color=737373) 
-
-![?title=completed](https://progress-bar.dev/25/?title=Python&suffix=(novice)&width=233&color=737373) 
 
 ##
 
